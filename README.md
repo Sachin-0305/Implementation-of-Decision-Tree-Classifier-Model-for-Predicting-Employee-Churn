@@ -77,6 +77,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ### x.head()
 ![Screenshot 2024-09-20 102331](https://github.com/user-attachments/assets/5f5666d9-58cb-4ab1-9398-d7e8d3c45dc4)
+![Screenshot 2024-09-20 104948](https://github.com/user-attachments/assets/375ea967-58df-4a61-82ca-af1322e2fa6e)
 
 
 
