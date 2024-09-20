@@ -9,6 +9,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Algorithm
 START
+
+
 STEP 1. Import the required libraries.
 
 STEP2. Upload the csv file and read the dataset.
@@ -20,6 +22,8 @@ STEP 4. From sklearn.tree inport DecisionTreeRegressor.
 STEP 5. Import metrics and calculate the Mean squared error.
 
 STEP 6. Apply metrics to the dataset, and predict the output.
+
+
 END
 ## Program:
 ```
